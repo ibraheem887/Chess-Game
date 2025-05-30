@@ -2,7 +2,7 @@
 
 A fully featured chess application written in Python using the pygame library.
 
-![main image](screenshots/main.jpg)
+
 
 ## How to Run
 
